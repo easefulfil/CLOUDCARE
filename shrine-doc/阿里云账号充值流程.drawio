@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T07:24:16.408Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_u3iHkn3hUzBG-gL5_om" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T08:44:22.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="OTMBQP5cSp0thzwAiIrq" version="14.2.6" type="github">
   <diagram id="roFFfxDUJYIJc8eop7bz" name="Page-1">
     <mxGraphModel dx="1186" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,32 +107,17 @@
         <mxCell id="rOA4uBclnJZB5DrJUqV7-4" value="充值客户阿里云账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rOA4uBclnJZB5DrJUqV7-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-30" target="rOA4uBclnJZB5DrJUqV7-33">
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-30" target="rOA4uBclnJZB5DrJUqV7-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rOA4uBclnJZB5DrJUqV7-30" value="客户消费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rOA4uBclnJZB5DrJUqV7-47" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-33" target="rOA4uBclnJZB5DrJUqV7-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rOA4uBclnJZB5DrJUqV7-48" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-33" target="rOA4uBclnJZB5DrJUqV7-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rOA4uBclnJZB5DrJUqV7-33" value="是否一次性&lt;br&gt;消费" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="530" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rOA4uBclnJZB5DrJUqV7-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-45" target="rOA4uBclnJZB5DrJUqV7-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rOA4uBclnJZB5DrJUqV7-45" value="生成一张发票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="540" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rOA4uBclnJZB5DrJUqV7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-46" target="rOA4uBclnJZB5DrJUqV7-50">
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-46" target="rOA4uBclnJZB5DrJUqV7-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rOA4uBclnJZB5DrJUqV7-46" value="按月消费生成发票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rOA4uBclnJZB5DrJUqV7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-50" target="rOA4uBclnJZB5DrJUqV7-53">
           <mxGeometry relative="1" as="geometry" />
@@ -152,9 +137,6 @@
         <mxCell id="rOA4uBclnJZB5DrJUqV7-57" value="录入发票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rOA4uBclnJZB5DrJUqV7-59" value="1、发票金额和消费金额是不是一个意思呢？&lt;br&gt;2、发票的消费金额是否需要与打款的金额对应。&lt;br&gt;&lt;div&gt;&lt;span&gt;3、&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="910" width="280" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="rOA4uBclnJZB5DrJUqV7-65" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-60" target="rOA4uBclnJZB5DrJUqV7-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -172,6 +154,9 @@
         </mxCell>
         <mxCell id="rOA4uBclnJZB5DrJUqV7-61" value="完成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="260" y="990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-70" value="1、发票金额和消费金额是不是一个意思呢？&lt;br&gt;2、发票的消费金额是否需要与打款的金额对应。先进先出规则。发票金额需要按订单拆分&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;3、录入发票时，发票金额与申请充值金额不相等怎么处理呢？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="730" width="280" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
