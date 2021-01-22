@@ -1,32 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T06:50:05.022Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mVdAon-WW0TlEx6GscC3" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T06:54:59.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="MRoLC56MW8bnwihlUyj7" version="14.2.6" type="github">
   <diagram id="roFFfxDUJYIJc8eop7bz" name="Page-1">
     <mxGraphModel dx="1186" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K8Je6sUpNGUMb3yso3Zy-1" value="签订合同" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K8Je6sUpNGUMb3yso3Zy-2" value="生成订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K8Je6sUpNGUMb3yso3Zy-3" value="申请充值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K8Je6sUpNGUMb3yso3Zy-4" value="审核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8Je6sUpNGUMb3yso3Zy-4" target="K8Je6sUpNGUMb3yso3Zy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K8Je6sUpNGUMb3yso3Zy-4" value="财务审核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8Je6sUpNGUMb3yso3Zy-5" target="K8Je6sUpNGUMb3yso3Zy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rOA4uBclnJZB5DrJUqV7-20">
+          <mxGeometry x="-0.3905" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K8Je6sUpNGUMb3yso3Zy-5" value="是否到账" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="525" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K8Je6sUpNGUMb3yso3Zy-6" value="已打款" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rOA4uBclnJZB5DrJUqV7-1" value="退回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rOA4uBclnJZB5DrJUqV7-2" value="申请开票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-2" target="K8Je6sUpNGUMb3yso3Zy-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-2" value="充值分销账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-3" target="rOA4uBclnJZB5DrJUqV7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-9" value="代销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rOA4uBclnJZB5DrJUqV7-6">
+          <mxGeometry x="-0.44" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-3" target="rOA4uBclnJZB5DrJUqV7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-10" value="代理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rOA4uBclnJZB5DrJUqV7-8">
+          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-3" value="充值类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-4" target="K8Je6sUpNGUMb3yso3Zy-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="590" />
+              <mxPoint x="230" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOA4uBclnJZB5DrJUqV7-4" value="充值客户阿里云账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
