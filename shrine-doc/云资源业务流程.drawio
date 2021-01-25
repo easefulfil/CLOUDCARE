@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T11:42:32.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yeGnzp8cbXtOZOn2-qoa" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T11:43:50.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="coTzqQtGpIi11bY6r6Uk" version="14.2.7" type="github">
   <diagram id="roFFfxDUJYIJc8eop7bz" name="Page-1">
     <mxGraphModel dx="1186" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,19 +88,8 @@
             <mxPoint x="430" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rOA4uBclnJZB5DrJUqV7-60" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="517.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="360" y="736" />
-              <mxPoint x="360" y="518" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-102" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="AUkhUbtXe1NcL0Z-zVLZ-101" vertex="1" connectable="0">
-          <mxGeometry x="0.0014" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="I3_jWcB05y7nGx8-yXRg-40" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rOA4uBclnJZB5DrJUqV7-60" target="rOA4uBclnJZB5DrJUqV7-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rOA4uBclnJZB5DrJUqV7-60" value="发票金额是否等于充值金额" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="690" width="102" height="55" as="geometry" />
