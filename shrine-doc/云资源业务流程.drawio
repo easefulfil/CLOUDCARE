@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T05:26:33.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="y4ftPxjgZbjBeFI0mj2k" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T05:28:47.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="A_Q04GPj_h8_FM4BjdLN" version="14.2.6" type="github">
   <diagram id="roFFfxDUJYIJc8eop7bz" name="Page-1">
     <mxGraphModel dx="1186" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,17 +300,14 @@
         <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-62" value="客户/合作伙伴开票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="1020" width="75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AUkhUbtXe1NcL0Z-zVLZ-65" target="AUkhUbtXe1NcL0Z-zVLZ-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-65" value="邮件发票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="1090" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AUkhUbtXe1NcL0Z-zVLZ-66" target="AUkhUbtXe1NcL0Z-zVLZ-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-66" value="同步OA支付返利申请状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="1250" width="75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-67" value="支付返利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1310" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-79" value="佣金&lt;br&gt;完成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="759.5" y="1280" width="60" height="60" as="geometry" />
@@ -372,14 +369,17 @@
         <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-110" value="佣金&lt;br&gt;完成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="664" y="1240" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUkhUbtXe1NcL0Z-zVLZ-112" target="AUkhUbtXe1NcL0Z-zVLZ-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-112" value="收到客户发票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="1090" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-114" value="OA发起支付返利申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1139" width="75" height="30" as="geometry" />
+          <mxGeometry x="550" y="1150" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AUkhUbtXe1NcL0Z-zVLZ-115" value="支付返利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1180" width="75" height="30" as="geometry" />
+          <mxGeometry x="550" y="1200" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
