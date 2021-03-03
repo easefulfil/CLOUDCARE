@@ -2664,3 +2664,33 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u593_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:796px;
+  height:131px;
+}
+#u593 {
+  border-width:0px;
+  position:absolute;
+  left:268px;
+  top:347px;
+  width:796px;
+  height:131px;
+  display:flex;
+}
+#u593 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u593_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
