@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T08:14:52.862Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="wtVpF7seqKWwCjCzRut5" version="14.5.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-12T08:30:33.183Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="uQvPy_4PuIVuGiIJI_U2" version="14.5.10" type="github" pages="3">
   <diagram id="roFFfxDUJYIJc8eop7bz" name="云资源业务总体流程">
-    <mxGraphModel dx="1186" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -465,36 +465,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="veHC9gZu2aiBtSPh0aqa" name="佣金返利计算流程">
-    <mxGraphModel dx="1186" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0CovmmDGkgQ_iqT8mHBI-0" />
         <mxCell id="0CovmmDGkgQ_iqT8mHBI-1" parent="0CovmmDGkgQ_iqT8mHBI-0" />
-        <mxCell id="gviK3kYtxMl-JXaVmf8T-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0CovmmDGkgQ_iqT8mHBI-1" source="gviK3kYtxMl-JXaVmf8T-1" target="gviK3kYtxMl-JXaVmf8T-3">
+        <mxCell id="gviK3kYtxMl-JXaVmf8T-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="0CovmmDGkgQ_iqT8mHBI-1" source="gviK3kYtxMl-JXaVmf8T-1" target="gviK3kYtxMl-JXaVmf8T-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gviK3kYtxMl-JXaVmf8T-1" value="计算佣金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0CovmmDGkgQ_iqT8mHBI-1">
+        <mxCell id="gviK3kYtxMl-JXaVmf8T-1" value="计算佣金" style="rounded=0;whiteSpace=wrap;html=1;" parent="0CovmmDGkgQ_iqT8mHBI-1" vertex="1">
           <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gviK3kYtxMl-JXaVmf8T-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0CovmmDGkgQ_iqT8mHBI-1" source="gviK3kYtxMl-JXaVmf8T-3" target="gviK3kYtxMl-JXaVmf8T-5">
+        <mxCell id="gviK3kYtxMl-JXaVmf8T-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="0CovmmDGkgQ_iqT8mHBI-1" source="gviK3kYtxMl-JXaVmf8T-3" target="gviK3kYtxMl-JXaVmf8T-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gviK3kYtxMl-JXaVmf8T-3" value="计算客户返利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0CovmmDGkgQ_iqT8mHBI-1">
+        <mxCell id="gviK3kYtxMl-JXaVmf8T-3" value="计算客户返利" style="rounded=0;whiteSpace=wrap;html=1;" parent="0CovmmDGkgQ_iqT8mHBI-1" vertex="1">
           <mxGeometry x="250" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gviK3kYtxMl-JXaVmf8T-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0CovmmDGkgQ_iqT8mHBI-1" source="gviK3kYtxMl-JXaVmf8T-5" target="gviK3kYtxMl-JXaVmf8T-6">
+        <mxCell id="gviK3kYtxMl-JXaVmf8T-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="0CovmmDGkgQ_iqT8mHBI-1" source="gviK3kYtxMl-JXaVmf8T-5" target="gviK3kYtxMl-JXaVmf8T-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gviK3kYtxMl-JXaVmf8T-5" value="计算合作伙伴返利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0CovmmDGkgQ_iqT8mHBI-1">
+        <mxCell id="gviK3kYtxMl-JXaVmf8T-5" value="计算合作伙伴返利" style="rounded=0;whiteSpace=wrap;html=1;" parent="0CovmmDGkgQ_iqT8mHBI-1" vertex="1">
           <mxGeometry x="420" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gviK3kYtxMl-JXaVmf8T-6" value="计算销售提成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0CovmmDGkgQ_iqT8mHBI-1">
+        <mxCell id="gviK3kYtxMl-JXaVmf8T-6" value="计算销售提成" style="rounded=0;whiteSpace=wrap;html=1;" parent="0CovmmDGkgQ_iqT8mHBI-1" vertex="1">
           <mxGeometry x="590" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gviK3kYtxMl-JXaVmf8T-11" value="按月" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="0CovmmDGkgQ_iqT8mHBI-1">
+        <mxCell id="gviK3kYtxMl-JXaVmf8T-11" value="按月" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="0CovmmDGkgQ_iqT8mHBI-1" vertex="1">
           <mxGeometry x="160" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gviK3kYtxMl-JXaVmf8T-14" value="按季度" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="0CovmmDGkgQ_iqT8mHBI-1">
+        <mxCell id="gviK3kYtxMl-JXaVmf8T-14" value="按季度" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="0CovmmDGkgQ_iqT8mHBI-1" vertex="1">
           <mxGeometry x="510" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSysNLZl3OcNdT9RoyOD-0" value="返佣，返利计算流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CovmmDGkgQ_iqT8mHBI-1">
+          <mxGeometry x="70" y="130" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
