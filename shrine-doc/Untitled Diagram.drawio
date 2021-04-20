@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T03:32:39.554Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="wMfqYcWFNy97Ld6qX-tR" version="14.6.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-20T08:28:05.692Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="ytRXspn91EvlgDm6Eme_" version="14.6.3" type="github" pages="2">
   <diagram id="p26OXxuvKFpikFnFWBYx" name="总体流程">
-    <mxGraphModel dx="1166" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="440" y="170" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fn6K2neiFV15tlPslCsQ-8" value="4、同意敏捷版（付费）协议，并填写邀请码" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="90" height="100" as="geometry" />
+          <mxGeometry x="560" y="100" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fn6K2neiFV15tlPslCsQ-9" value="2 同步线索信息，&lt;br&gt;包括CC账单，企业信息等" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=0.1;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fn6K2neiFV15tlPslCsQ-7" target="fn6K2neiFV15tlPslCsQ-4">
           <mxGeometry width="60" relative="1" as="geometry">
@@ -34,7 +34,7 @@
             <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fn6K2neiFV15tlPslCsQ-10" value="5、根据CC 账号，邀请码&lt;br&gt;将线索改为正式客户" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=0.343;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.94;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fn6K2neiFV15tlPslCsQ-8" target="fn6K2neiFV15tlPslCsQ-4">
+        <mxCell id="fn6K2neiFV15tlPslCsQ-10" value="5、根据CC 账号，邀请码&lt;br&gt;将线索改为正式客户&lt;br&gt;并创建线上订单" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=0.343;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.94;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fn6K2neiFV15tlPslCsQ-8" target="fn6K2neiFV15tlPslCsQ-4">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="380" y="330" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
@@ -67,6 +67,24 @@
               <mxPoint x="540" y="50" />
               <mxPoint x="390" y="40" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYrukVOZL_YZWq7wN4cl-1" value="钉钉" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YYrukVOZL_YZWq7wN4cl-2" value="* 线索" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0.65;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.65;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YYrukVOZL_YZWq7wN4cl-1" target="fn6K2neiFV15tlPslCsQ-4">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="250" y="500" as="sourcePoint" />
+            <mxPoint x="310" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYrukVOZL_YZWq7wN4cl-3" value="网站/推广" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YYrukVOZL_YZWq7wN4cl-4" value="* 线索" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=0.08;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YYrukVOZL_YZWq7wN4cl-3" target="fn6K2neiFV15tlPslCsQ-4">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="120" y="370" as="sourcePoint" />
+            <mxPoint x="180" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -107,7 +125,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7IonkL6gLyRd44jJAMne-4" value="客户是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="7IonkL6gLyRd44jJAMne-1">
+        <mxCell id="7IonkL6gLyRd44jJAMne-4" value="正式客户是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="7IonkL6gLyRd44jJAMne-1">
           <mxGeometry x="85" y="230" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7IonkL6gLyRd44jJAMne-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7IonkL6gLyRd44jJAMne-1" source="7IonkL6gLyRd44jJAMne-3" target="7IonkL6gLyRd44jJAMne-3">
@@ -153,7 +171,7 @@
         <mxCell id="7IonkL6gLyRd44jJAMne-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7IonkL6gLyRd44jJAMne-1" source="7IonkL6gLyRd44jJAMne-13" target="7IonkL6gLyRd44jJAMne-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7IonkL6gLyRd44jJAMne-13" value="根据邀请码建立销售/合作伙伴关系" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="7IonkL6gLyRd44jJAMne-1">
+        <mxCell id="7IonkL6gLyRd44jJAMne-13" value="根据邀请码建立合作伙伴关系" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="7IonkL6gLyRd44jJAMne-1">
           <mxGeometry x="330" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7IonkL6gLyRd44jJAMne-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7IonkL6gLyRd44jJAMne-1" source="7IonkL6gLyRd44jJAMne-15" target="7IonkL6gLyRd44jJAMne-6">
