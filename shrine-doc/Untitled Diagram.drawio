@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T02:37:42.945Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="ZjklGUxBpPAAQ3Mfo_gr" version="14.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-27T02:57:29.211Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="t0o1udLb0hxFb-zmL_rn" version="14.6.6" type="github" pages="3">
   <diagram id="p26OXxuvKFpikFnFWBYx" name="总体流程">
-    <mxGraphModel dx="1166" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,6 +328,49 @@
             <mxPoint x="330" y="320" as="sourcePoint" />
             <mxPoint x="490" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gCoG9efEU2PV1wI2GAgM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eS4F7z9ObR8BAr5QqwDx-1" source="gCoG9efEU2PV1wI2GAgM-4" target="gCoG9efEU2PV1wI2GAgM-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="960" />
+              <mxPoint x="370" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCoG9efEU2PV1wI2GAgM-4" value=":Shrine" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="eS4F7z9ObR8BAr5QqwDx-1">
+          <mxGeometry x="230" y="720" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gCoG9efEU2PV1wI2GAgM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eS4F7z9ObR8BAr5QqwDx-1" source="gCoG9efEU2PV1wI2GAgM-5" target="gCoG9efEU2PV1wI2GAgM-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="790" />
+              <mxPoint x="400" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCoG9efEU2PV1wI2GAgM-8" value="1、申请为企业会员，同步线索数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gCoG9efEU2PV1wI2GAgM-7">
+          <mxGeometry x="0.0906" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCoG9efEU2PV1wI2GAgM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eS4F7z9ObR8BAr5QqwDx-1" source="gCoG9efEU2PV1wI2GAgM-5" target="gCoG9efEU2PV1wI2GAgM-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="820" />
+              <mxPoint x="390" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCoG9efEU2PV1wI2GAgM-10" value="2、开通DF敏捷版，同步客户数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gCoG9efEU2PV1wI2GAgM-9">
+          <mxGeometry x="0.1531" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCoG9efEU2PV1wI2GAgM-5" value=":Cloudcare" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="eS4F7z9ObR8BAr5QqwDx-1">
+          <mxGeometry x="550" y="720" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gCoG9efEU2PV1wI2GAgM-11" value=":OA" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="eS4F7z9ObR8BAr5QqwDx-1">
+          <mxGeometry x="30" y="720" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
