@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T02:16:56.742Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" version="14.6.6" etag="aO7eJis-v7tX3Vfo0nN1" type="github"><diagram id="teIoZZREnqVwR_seyMkK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-06T02:17:26.430Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="5IaVjVDFiLFe53BaGYAy" version="14.6.6" type="github">
+  <diagram id="teIoZZREnqVwR_seyMkK" name="Page-1">
+    <mxGraphModel dx="1166" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-1" value="&amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp;清洗，转换，一致性处理，数据加载&lt;br&gt;&amp;nbsp; &amp;nbsp; Kettle/Dataworks" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="3rHvK3l9uWbKJNMXN42x-3" target="3rHvK3l9uWbKJNMXN42x-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-3" value="ETL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="475" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-4" value="&amp;nbsp; 学生成绩预测&lt;br&gt;&amp;nbsp; 决策树&lt;br&gt;&amp;nbsp; 机器学习" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="628.5" y="360" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-5" value="数据挖掘" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="581.5" y="435" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-6" value="&amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;学生、教师、考试考勤，消费数据&lt;br&gt;&amp;nbsp; &amp;nbsp;各平台，数据中心" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="510" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-7" value="数据获取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="475" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-8" value="" style="endArrow=classic;html=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3rHvK3l9uWbKJNMXN42x-7" target="3rHvK3l9uWbKJNMXN42x-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="380" as="sourcePoint" />
+            <mxPoint x="530" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-9" value="&amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp;清洗，转换，一致性处理，数据加载&lt;br&gt;&amp;nbsp; &amp;nbsp; ECS/RDS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="3rHvK3l9uWbKJNMXN42x-11" target="3rHvK3l9uWbKJNMXN42x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-11" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="475" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="3rHvK3l9uWbKJNMXN42x-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="495" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-13" value="&amp;nbsp;&lt;br&gt;&amp;nbsp; 学生，教学，班级，学校画像，群体分析，对比分析析&lt;br&gt;&amp;nbsp;QuickBI" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="628.5" y="560" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHvK3l9uWbKJNMXN42x-14" value="可视化分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="581.5" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
