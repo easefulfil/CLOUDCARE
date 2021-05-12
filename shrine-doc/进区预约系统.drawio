@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T04:54:42.884Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="H_vyPEkw0UgQAC2sig8T" version="14.6.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-12T05:01:24.421Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Fy6QiM6KJMum9neWzx-8" version="14.6.11" type="github" pages="2">
   <diagram id="r_dpZRQQ6k5GukbJklo0" name="业务流程图">
     <mxGraphModel dx="1179" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,6 +170,21 @@
       <root>
         <mxCell id="GLUvTiBQzX47aJW1uTeo-0" />
         <mxCell id="GLUvTiBQzX47aJW1uTeo-1" parent="GLUvTiBQzX47aJW1uTeo-0" />
+        <mxCell id="_JE2uhXKbqOFR6C2QaG3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GLUvTiBQzX47aJW1uTeo-1" source="_JE2uhXKbqOFR6C2QaG3-0" target="_JE2uhXKbqOFR6C2QaG3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_JE2uhXKbqOFR6C2QaG3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GLUvTiBQzX47aJW1uTeo-1" source="_JE2uhXKbqOFR6C2QaG3-0" target="_JE2uhXKbqOFR6C2QaG3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_JE2uhXKbqOFR6C2QaG3-0" value="英荣物流&lt;br&gt;进区预约系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GLUvTiBQzX47aJW1uTeo-1">
+          <mxGeometry x="240" y="220" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_JE2uhXKbqOFR6C2QaG3-2" value="WMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GLUvTiBQzX47aJW1uTeo-1">
+          <mxGeometry x="270" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_JE2uhXKbqOFR6C2QaG3-3" value="短信接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GLUvTiBQzX47aJW1uTeo-1">
+          <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
