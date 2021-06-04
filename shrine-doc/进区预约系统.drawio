@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T02:19:07.037Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="_QRxoYFQkg5nhQjhcK8K" version="14.7.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-06-04T02:30:08.724Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="fExFdcCX2a3C5vFjReZF" version="14.7.1" type="github" pages="10">
   <diagram id="r_dpZRQQ6k5GukbJklo0" name="业务流程图">
     <mxGraphModel dx="1179" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1149,7 +1149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h0q72thftM1mLwVmS1uI" name="预约送货状态">
-    <mxGraphModel dx="1179" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NrGTdXwKsuSvhwLVD3kB-0" />
         <mxCell id="NrGTdXwKsuSvhwLVD3kB-1" parent="NrGTdXwKsuSvhwLVD3kB-0" />
@@ -1171,7 +1171,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oWxkjYNY41xj63wpZpXJ-4" value="待审核" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;fontSize=14;" parent="NrGTdXwKsuSvhwLVD3kB-1" vertex="1">
+        <mxCell id="oWxkjYNY41xj63wpZpXJ-4" value="待预约" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;fontSize=14;" parent="NrGTdXwKsuSvhwLVD3kB-1" vertex="1">
           <mxGeometry x="146" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tRTkAwCA6f5FKcmgqdmS-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="NrGTdXwKsuSvhwLVD3kB-1" source="oWxkjYNY41xj63wpZpXJ-7" target="oWxkjYNY41xj63wpZpXJ-9" edge="1">
@@ -1187,7 +1187,7 @@
             <mxPoint x="-4" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oWxkjYNY41xj63wpZpXJ-7" value="审核通过" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;fontSize=14;" parent="NrGTdXwKsuSvhwLVD3kB-1" vertex="1">
+        <mxCell id="oWxkjYNY41xj63wpZpXJ-7" value="预约通过" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;fontSize=14;" parent="NrGTdXwKsuSvhwLVD3kB-1" vertex="1">
           <mxGeometry x="146" y="310" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oWxkjYNY41xj63wpZpXJ-9" value="送货中" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;fontSize=14;" parent="NrGTdXwKsuSvhwLVD3kB-1" vertex="1">
@@ -1269,7 +1269,10 @@
         <mxCell id="vfOb-i4gzEUMM2uwZXCx-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;预约送货状态&lt;br&gt;&lt;div style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; text-align: left ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;订单明细状态为报关通过的，才嫩新建预约送货&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="NrGTdXwKsuSvhwLVD3kB-1" vertex="1">
           <mxGeometry width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vfOb-i4gzEUMM2uwZXCx-1" value="审核不通过" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;fontSize=14;" parent="NrGTdXwKsuSvhwLVD3kB-1" vertex="1">
+        <mxCell id="6XHg7hN_66Tf9njf_j4K-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NrGTdXwKsuSvhwLVD3kB-1" source="vfOb-i4gzEUMM2uwZXCx-1" target="oWxkjYNY41xj63wpZpXJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vfOb-i4gzEUMM2uwZXCx-1" value="预约不通过" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;fontSize=14;" parent="NrGTdXwKsuSvhwLVD3kB-1" vertex="1">
           <mxGeometry x="140" y="250" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
