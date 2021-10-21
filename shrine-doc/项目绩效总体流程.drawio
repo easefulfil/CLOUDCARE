@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T05:47:39.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Z2jb5VoJHeZ2gphiUunf" version="15.5.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-21T05:50:48.022Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="MERaA5zExcK3vSljFKP9" version="15.5.5" type="github" pages="3">
   <diagram id="qzNjBNDZh3tMxg9USTBX" name="Page-1">
-    <mxGraphModel dx="1069" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1069" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,19 +19,31 @@
         <mxCell id="v7YiWmHFAgEFXaee1daZ-6" value="项目经理" style="text;align=left;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="jTyAJuNPwRRl46_FL5zi-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XsYZTX3HpusEBxaeSx5j-2" target="XsYZTX3HpusEBxaeSx5j-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XsYZTX3HpusEBxaeSx5j-2" value="新建项目" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XsYZTX3HpusEBxaeSx5j-3" value="新建预算" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="1" vertex="1">
+        <mxCell id="jTyAJuNPwRRl46_FL5zi-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XsYZTX3HpusEBxaeSx5j-3" target="LzxArX3SYCaMQ1Gq381J-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XsYZTX3HpusEBxaeSx5j-3" value="设置预算" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="160" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzxArX3SYCaMQ1Gq381J-1" value="OA项目申报" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;" parent="1" vertex="1">
+        <mxCell id="jTyAJuNPwRRl46_FL5zi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzxArX3SYCaMQ1Gq381J-1" target="LzxArX3SYCaMQ1Gq381J-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzxArX3SYCaMQ1Gq381J-1" value="OA预算申报" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="230" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzxArX3SYCaMQ1Gq381J-2" value="OA项目审批" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;" parent="1" vertex="1">
+        <mxCell id="LzxArX3SYCaMQ1Gq381J-2" value="OA预算审批" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzxArX3SYCaMQ1Gq381J-5" value="OA项目审批" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;" parent="1" vertex="1">
+        <mxCell id="jTyAJuNPwRRl46_FL5zi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LzxArX3SYCaMQ1Gq381J-5" target="LzxArX3SYCaMQ1Gq381J-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzxArX3SYCaMQ1Gq381J-5" value="OA预算审批" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LzxArX3SYCaMQ1Gq381J-6" value="项目收款" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="1" vertex="1">
@@ -127,7 +139,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yxUSXoPqUCVFOg2YnClx" name="Page-3">
-    <mxGraphModel dx="1069" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1069" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="glAJ-iHYpB3ogxKtiY7i-0" />
         <mxCell id="glAJ-iHYpB3ogxKtiY7i-1" parent="glAJ-iHYpB3ogxKtiY7i-0" />
