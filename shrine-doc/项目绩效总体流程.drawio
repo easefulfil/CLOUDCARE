@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T03:54:19.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-otH7Gb-JCaNFwFzyWgS" version="15.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-11T03:56:21.739Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="M2e3BeTAooqTSNLXvmXM" version="15.7.1" type="github" pages="7">
   <diagram id="qzNjBNDZh3tMxg9USTBX" name="Page-1">
     <mxGraphModel dx="1186" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -624,6 +624,78 @@
         </mxCell>
         <mxCell id="YidtMjYVpkmsvODJDZQ4-42" value="新增收付款，&lt;br&gt;各类费用" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="YidtMjYVpkmsvODJDZQ4-1">
           <mxGeometry x="330" y="620" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gJbpHKGoOy-4rKYPqgtB" name="绩效发放流程图 for 使用说明书">
+    <mxGraphModel dx="1186" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="2BWzGLDa1OeU9WGfS1Ub-0" />
+        <mxCell id="2BWzGLDa1OeU9WGfS1Ub-1" parent="2BWzGLDa1OeU9WGfS1Ub-0" />
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-0" value="" style="line;strokeWidth=1;direction=south;html=1;dashed=1;dashPattern=20 20;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="300" y="40" width="10" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-1" value="OA系统" style="text;align=right;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="190" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-2" value="雪润系统" style="text;align=left;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="490" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-3" value="" style="line;strokeWidth=1;direction=south;html=1;dashed=1;dashPattern=20 20;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="450" y="70" width="10" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-4" value="绩效系统" style="text;align=left;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="360" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2BWzGLDa1OeU9WGfS1Ub-1" source="V1iVW9bl2JqHyVcNCJJL-7" target="V1iVW9bl2JqHyVcNCJJL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-7" value="合同收款" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="480" y="90" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2BWzGLDa1OeU9WGfS1Ub-1" source="V1iVW9bl2JqHyVcNCJJL-11" target="V1iVW9bl2JqHyVcNCJJL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-11" value="新增收款记录" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="330" y="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2BWzGLDa1OeU9WGfS1Ub-1" source="V1iVW9bl2JqHyVcNCJJL-13" target="V1iVW9bl2JqHyVcNCJJL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-13" value="设置项目人员&lt;br&gt;绩效参数" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="330" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2BWzGLDa1OeU9WGfS1Ub-1" source="V1iVW9bl2JqHyVcNCJJL-15" target="V1iVW9bl2JqHyVcNCJJL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-15" value="生存当月项目绩效" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="330" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2BWzGLDa1OeU9WGfS1Ub-1" source="V1iVW9bl2JqHyVcNCJJL-17" target="V1iVW9bl2JqHyVcNCJJL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-17" value="导出项目绩效" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="330" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2BWzGLDa1OeU9WGfS1Ub-1" source="V1iVW9bl2JqHyVcNCJJL-19" target="V1iVW9bl2JqHyVcNCJJL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-19" value="提交项目绩效" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="170" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="2BWzGLDa1OeU9WGfS1Ub-1" source="V1iVW9bl2JqHyVcNCJJL-22" target="V1iVW9bl2JqHyVcNCJJL-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-22" value="项目绩效审批归档" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="170" y="430" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1iVW9bl2JqHyVcNCJJL-25" value="更新项目绩效" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="2BWzGLDa1OeU9WGfS1Ub-1">
+          <mxGeometry x="330" y="460" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
