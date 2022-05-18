@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T07:45:09.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="NHAT9oFUQ1YZQvODT50F" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-18T07:47:19.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="mlDK9ZV-I5GQcnWueixj" version="17.4.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="总体流程">
     <mxGraphModel dx="1186" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LJzMgTBrtHC8OmEHoOtT-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJzMgTBrtHC8OmEHoOtT-2" value="摊销人工费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LJzMgTBrtHC8OmEHoOtT-3" value="读取项目月报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
