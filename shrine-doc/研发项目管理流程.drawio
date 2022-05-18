@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T08:37:28.348Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Ub5Gb61CtoNXLguSsefE" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-18T08:42:10.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="UqEIPOM2YhfkxxSl-f2C" version="17.4.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="总体流程">
     <mxGraphModel dx="1186" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,19 +28,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-KlC-YwMYe3Bj45QQ63-2" value="费用分摊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="270" width="100" height="50" as="geometry" />
+          <mxGeometry x="480" y="250" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C-KlC-YwMYe3Bj45QQ63-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C-KlC-YwMYe3Bj45QQ63-3" target="C-KlC-YwMYe3Bj45QQ63-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-KlC-YwMYe3Bj45QQ63-3" value="费用归集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="380" width="100" height="50" as="geometry" />
+          <mxGeometry x="480" y="360" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pQhmQ7CQRKjNzpdIeHt2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C-KlC-YwMYe3Bj45QQ63-4" target="pQhmQ7CQRKjNzpdIeHt2-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-KlC-YwMYe3Bj45QQ63-4" value="月度台帐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="480" width="100" height="50" as="geometry" />
+          <mxGeometry x="480" y="450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C-KlC-YwMYe3Bj45QQ63-9" value="项目负责人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="80" width="80" height="30" as="geometry" />
@@ -63,7 +63,7 @@
         <mxCell id="cmwxCJccYiHBZsyU3Xxz-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a2dMxt3kqsDvFnWidYsM-1" target="C-KlC-YwMYe3Bj45QQ63-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="364" y="300" />
+              <mxPoint x="364" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,7 +71,7 @@
           <mxGeometry x="320" y="160" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pQhmQ7CQRKjNzpdIeHt2-0" value="项目报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="584.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="480" y="540" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
