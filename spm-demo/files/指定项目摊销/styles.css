@@ -377,6 +377,9 @@
   width:77px;
   height:30px;
   display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
 }
 #u1930 .text {
   position:absolute;
@@ -389,7 +392,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u1931_img {
   border-width:0px;
