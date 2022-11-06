@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T01:15:51.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OKovgFPjEUF90Mxkn3N5" version="20.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-06T01:28:10.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="f60i04etLEUqLvu3U6dC" version="20.5.2" type="github" pages="4">
   <diagram id="5TTldtTPAiXJ0-v0XxrX" name="第 1 页">
     <mxGraphModel dx="1072" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,6 +50,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dJ3JYOj7NnfkXMWuGv1H-75" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="600" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Linux&amp;nbsp; kernel&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="600" height="300" as="geometry" />
         </mxCell>
@@ -74,7 +77,7 @@
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-12" value="User&lt;br&gt;Space" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="160" y="250" width="600" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dJ3JYOj7NnfkXMWuGv1H-13" value="Agent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="dJ3JYOj7NnfkXMWuGv1H-13" value="DeamonSet&amp;nbsp; Agent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="210" y="365" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.143;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dJ3JYOj7NnfkXMWuGv1H-4" target="dJ3JYOj7NnfkXMWuGv1H-13">
@@ -156,16 +159,16 @@
           <mxGeometry x="210" y="290" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-57" value="Metrics" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="160" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="250" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-58" value="Logs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-59" value="Traces" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="435" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-60" value="Events" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="580" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-64" value="" style="endArrow=classic;html=1;rounded=1;fontSize=14;jumpStyle=arc;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.538;exitY=-0.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dJ3JYOj7NnfkXMWuGv1H-56" target="dJ3JYOj7NnfkXMWuGv1H-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -215,6 +218,9 @@
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.redhat.com/cms/managed-files/tux-327x360.png;" vertex="1" parent="1">
           <mxGeometry x="170" y="700" width="34.71" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ3JYOj7NnfkXMWuGv1H-74" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://opentelemetry.io/img/social/logo-wordmark-001.png;" vertex="1" parent="1">
+          <mxGeometry x="355.95" y="296.5" width="64.05" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
