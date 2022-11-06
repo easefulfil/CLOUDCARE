@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T03:29:06.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LHJJyVT7zwsJRoWq8b1v" version="20.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-06T03:29:47.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8OntByMWqwJr4RjELsAQ" version="20.5.2" type="github" pages="4">
   <diagram id="5TTldtTPAiXJ0-v0XxrX" name="第 1 页">
     <mxGraphModel dx="1072" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,16 +135,16 @@
           <mxGeometry x="250" y="270" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-57" value="Metrics" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="165" width="90" height="40" as="geometry" />
+          <mxGeometry x="260" y="165" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-58" value="Logs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="380" y="165" width="90" height="40" as="geometry" />
+          <mxGeometry x="360" y="165" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-59" value="Traces" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="510" y="165" width="90" height="40" as="geometry" />
+          <mxGeometry x="459" y="165" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-60" value="Events" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="640" y="165" width="90" height="40" as="geometry" />
+          <mxGeometry x="559" y="165" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dJ3JYOj7NnfkXMWuGv1H-64" value="" style="endArrow=classic;html=1;rounded=1;fontSize=14;jumpStyle=arc;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.538;exitY=-0.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dJ3JYOj7NnfkXMWuGv1H-56" target="dJ3JYOj7NnfkXMWuGv1H-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -289,6 +289,9 @@
               <mxPoint x="490" y="490" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RgTQEKCVN4flwglff17y-18" value="Service Map" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="165" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
