@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T01:08:24.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Z0h37GUa6_Tj8xpBEXzK" version="20.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-07T01:13:08.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kt8kzm5ClkywmkwSb3Ub" version="20.5.2" type="github" pages="5">
   <diagram id="5TTldtTPAiXJ0-v0XxrX" name="第 1 页">
     <mxGraphModel dx="1072" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,14 +455,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rtzbowsGHzsba5y-TOLg" name="数据架构">
-    <mxGraphModel dx="1072" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1072" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PI68Dxvc01ae8S5Yz6fg-2" value="Exporter" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;dashed=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="10" y="260" width="100" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="PI68Dxvc01ae8S5Yz6fg-5" value="&amp;nbsp;Data Handler cluster" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="PI68Dxvc01ae8S5Yz6fg-5" value="Data Processing cluster" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="230" height="200" as="geometry" />
         </mxCell>
         <mxCell id="PI68Dxvc01ae8S5Yz6fg-6" value="&amp;nbsp;Storage Cluster" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;verticalAlign=top;align=left;" vertex="1" parent="1">
@@ -551,10 +551,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbNumuIVwPLOtkw1SIkW-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://assets.zabbix.com/img/brands/influxdb.svg;" vertex="1" parent="1">
-          <mxGeometry x="600" y="450" width="25" height="25" as="geometry" />
+          <mxGeometry x="590" y="520" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="WbNumuIVwPLOtkw1SIkW-2" value="、" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://coralogix.com/wp-content/uploads/2017/07/Logstash_Large.png;" vertex="1" parent="1">
           <mxGeometry x="350" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WbNumuIVwPLOtkw1SIkW-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://antaresnet.com/wp-content/uploads/2018/07/Elasticsearch-Logo-Color-V.png;" vertex="1" parent="1">
+          <mxGeometry x="590" y="446.39" width="64.48" height="33.61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
