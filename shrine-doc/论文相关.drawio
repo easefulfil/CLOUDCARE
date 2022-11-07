@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T01:59:10.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="f54hFQkpW9f64WKp7uEO" version="20.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-07T02:18:32.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Qt4qyin-MyhWP63odagV" version="20.5.2" type="github" pages="5">
   <diagram id="5TTldtTPAiXJ0-v0XxrX" name="第 1 页">
     <mxGraphModel dx="1072" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -474,8 +474,8 @@
         <mxCell id="PI68Dxvc01ae8S5Yz6fg-6" value="&amp;nbsp;Storage Cluster" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="580" y="308.19" width="220" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="PI68Dxvc01ae8S5Yz6fg-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="184" y="398.19" width="96" height="60" as="geometry" />
+        <mxCell id="PI68Dxvc01ae8S5Yz6fg-9" value="message&lt;br&gt;query" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="182" y="398.19" width="96" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI68Dxvc01ae8S5Yz6fg-10" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="160" y="398.19" width="40" height="60" as="geometry" />
@@ -483,20 +483,8 @@
         <mxCell id="PI68Dxvc01ae8S5Yz6fg-11" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="260" y="398.19" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PI68Dxvc01ae8S5Yz6fg-12" value="技术栈" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="30" y="308.19" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PI68Dxvc01ae8S5Yz6fg-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="30" y="353.19" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PI68Dxvc01ae8S5Yz6fg-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="30" y="398.19" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PI68Dxvc01ae8S5Yz6fg-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="30" y="445.52" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PI68Dxvc01ae8S5Yz6fg-16" value="消息队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="202" y="338.19" width="60" height="30" as="geometry" />
+        <mxCell id="PI68Dxvc01ae8S5Yz6fg-16" value="数据缓存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="338.19" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pried4PS1R2XxMpqw9si-3" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="PI68Dxvc01ae8S5Yz6fg-17" target="PI68Dxvc01ae8S5Yz6fg-20">
           <mxGeometry relative="1" as="geometry" />
@@ -520,7 +508,7 @@
           <mxGeometry x="470" y="348.19" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WfTLpkwVWIgwdtHKfD9N-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="220" y="411.94" width="20" height="32.49" as="geometry" />
+          <mxGeometry x="202" y="440.51" width="8.88" height="14.43" as="geometry" />
         </mxCell>
         <mxCell id="pried4PS1R2XxMpqw9si-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://elastic-content-share.eu/wp-content/uploads/edd/2020/06/logstash-logo-color.png;" vertex="1" parent="1">
           <mxGeometry x="380" y="900" width="230" height="230" as="geometry" />
@@ -574,8 +562,20 @@
         <mxCell id="bJ2tk-cNozTd44DDqlEO-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1400/1*BmvPfSSm2G8C-khX1rhCGg.png;" vertex="1" parent="1">
           <mxGeometry x="726.45" y="468.19" width="73.55" height="38.19" as="geometry" />
         </mxCell>
-        <mxCell id="bJ2tk-cNozTd44DDqlEO-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="30" y="490" width="60" height="30" as="geometry" />
+        <mxCell id="b5ePyycFvW9dBFRRzVdD-1" value="Metrics" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="308.19" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5ePyycFvW9dBFRRzVdD-2" value="Logs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="348.19" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5ePyycFvW9dBFRRzVdD-3" value="Traces" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="388.19" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5ePyycFvW9dBFRRzVdD-4" value="Events" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="424.94" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5ePyycFvW9dBFRRzVdD-5" value="Service Map" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="473.18" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
