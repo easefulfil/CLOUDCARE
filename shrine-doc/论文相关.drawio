@@ -1,14 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T05:12:39.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lZiGcmEfSNq5-YPHMylZ" version="20.5.2" type="github" pages="5">
-  <diagram id="5TTldtTPAiXJ0-v0XxrX" name="第 1 页">
+<mxfile host="app.diagrams.net" modified="2022-11-07T05:17:42.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tCCybkgMZTsBlr9ZFlKK" version="20.5.2" type="github" pages="5">
+  <diagram id="5TTldtTPAiXJ0-v0XxrX" name="课题设计方案">
     <mxGraphModel dx="1072" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mz-EMtSZDdno8Yj0Eo8G-1" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=node" parent="1" vertex="1">
-          <mxGeometry x="270" y="490" width="50" height="48" as="geometry" />
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-3" target="OdKgrndrxz8RqmuAvvOZ-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mz-EMtSZDdno8Yj0Eo8G-2" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="390" y="550" width="50" height="48" as="geometry" />
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-3" target="OdKgrndrxz8RqmuAvvOZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-3" value="课题关键问题分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-5" target="OdKgrndrxz8RqmuAvvOZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-5" value="相关文献阅读分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-7" target="OdKgrndrxz8RqmuAvvOZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-7" value="行业需求调研分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-9" target="OdKgrndrxz8RqmuAvvOZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-9" value="关键技术研究，验证" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="220" y="580" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;strokeWidth=2;dashed=1;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-12" target="OdKgrndrxz8RqmuAvvOZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-12" target="OdKgrndrxz8RqmuAvvOZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-12" value="可观测性平台研发" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="220" y="770" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-15" target="OdKgrndrxz8RqmuAvvOZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;strokeWidth=2;dashed=1;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-15" target="OdKgrndrxz8RqmuAvvOZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-15" value="定义云原生应用可观测SLO/SLI" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="480" y="670" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-17" target="OdKgrndrxz8RqmuAvvOZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-17" value="云原生应用可观测性场景&lt;br style=&quot;font-size: 13px&quot;&gt;需求分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="480" y="580" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;strokeWidth=2;dashed=1;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-20" target="OdKgrndrxz8RqmuAvvOZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-20" target="OdKgrndrxz8RqmuAvvOZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-20" value="负载降级故障定位，原因分析&lt;br style=&quot;font-size: 13px;&quot;&gt;负载优化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="360" y="860" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-23" target="OdKgrndrxz8RqmuAvvOZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;strokeWidth=2;dashed=1;" edge="1" parent="1" source="OdKgrndrxz8RqmuAvvOZ-23" target="OdKgrndrxz8RqmuAvvOZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-23" value="构建云原生应用可观测性" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="480" y="770" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdKgrndrxz8RqmuAvvOZ-24" value="重点难点任务，关键技术总结&lt;br style=&quot;font-size: 13px;&quot;&gt;撰写论文" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="360" y="950" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
