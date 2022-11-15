@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T01:11:00.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kq3g62t565wlbCq7ZQdA" version="20.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-11-15T01:34:12.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MfKvJPq5jo8vIQuOLQwf" version="20.5.3" type="github" pages="10">
   <diagram id="5TTldtTPAiXJ0-v0XxrX" name="课题设计方案">
     <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -412,8 +412,16 @@
         <mxCell id="4r53vSgEkgZQuhawYNvB-1" style="edgeStyle=elbowEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=14;elbow=vertical;fontStyle=1" edge="1" parent="1" source="4r53vSgEkgZQuhawYNvB-4" target="4r53vSgEkgZQuhawYNvB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4r53vSgEkgZQuhawYNvB-2" style="edgeStyle=elbowEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeWidth=2;fontSize=14;fontStyle=1" edge="1" parent="1" source="4r53vSgEkgZQuhawYNvB-4" target="4r53vSgEkgZQuhawYNvB-18">
+        <mxCell id="8yD3aYPqILUg7EwTOuP3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4r53vSgEkgZQuhawYNvB-4" target="4r53vSgEkgZQuhawYNvB-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8yD3aYPqILUg7EwTOuP3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4r53vSgEkgZQuhawYNvB-4" target="8yD3aYPqILUg7EwTOuP3-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1200" />
+              <mxPoint x="800" y="1200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4r53vSgEkgZQuhawYNvB-4" value="提出课题关键技术问题和&lt;br&gt;评价方法" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="311" y="1090" width="205" height="60" as="geometry" />
@@ -433,20 +441,42 @@
         <mxCell id="8yD3aYPqILUg7EwTOuP3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4r53vSgEkgZQuhawYNvB-10" target="4r53vSgEkgZQuhawYNvB-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4r53vSgEkgZQuhawYNvB-10" value="&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot;&gt;基于数据采样的分布式链路数据构建方法&lt;/span&gt;&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="20" y="1240" width="190" height="60" as="geometry" />
+        <mxCell id="8yD3aYPqILUg7EwTOuP3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4r53vSgEkgZQuhawYNvB-10" target="4r53vSgEkgZQuhawYNvB-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1340" />
+              <mxPoint x="490" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4r53vSgEkgZQuhawYNvB-10" value="&lt;span style=&quot;font-family: 仿宋_GB2312; text-align: start;&quot;&gt;基于数据采样的分布式全链路数据构建方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="105" y="1240" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4r53vSgEkgZQuhawYNvB-16" value="&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot; lang=&quot;ZH&quot;&gt;一种&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot;&gt;支持多源异构，无侵入式端到端&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot; lang=&quot;ZH&quot;&gt;的实时&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot;&gt;数据处理引擎&lt;/span&gt;&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="20" y="1350" width="190" height="60" as="geometry" />
+          <mxGeometry x="410" y="1240" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4r53vSgEkgZQuhawYNvB-18" value="&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 14px; text-align: start;&quot;&gt;一种面向云原生应用的时序数据预测方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="380" y="1240" width="200" height="60" as="geometry" />
+        <mxCell id="4r53vSgEkgZQuhawYNvB-18" value="&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 14px; text-align: start;&quot;&gt;基于的云原生应用根因果分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="1410" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4r53vSgEkgZQuhawYNvB-22" value="&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot;&gt;成果验证&lt;br style=&quot;font-size: 14px;&quot;&gt;云原生应用&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot; lang=&quot;ZH&quot;&gt;性能&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot;&gt;预测&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot; lang=&quot;ZH&quot;&gt;，故障定位和&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot;&gt;根&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot; lang=&quot;ZH&quot;&gt;原因分析&lt;/span&gt;&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="275" y="1480" width="200" height="60" as="geometry" />
+          <mxGeometry x="460" y="1600" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4r53vSgEkgZQuhawYNvB-25" value="重点难点任务，关键技术总结&lt;br style=&quot;font-size: 14px;&quot;&gt;撰写论文" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="1580" width="190" height="60" as="geometry" />
+          <mxGeometry x="465" y="1700" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8yD3aYPqILUg7EwTOuP3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yD3aYPqILUg7EwTOuP3-6" target="4r53vSgEkgZQuhawYNvB-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1350" />
+              <mxPoint x="490" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yD3aYPqILUg7EwTOuP3-6" value="&lt;span style=&quot;font-family: 仿宋_GB2312; font-size: 14px; text-align: start;&quot;&gt;面向云原生应用的时序数据预测方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="670" y="1240" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8yD3aYPqILUg7EwTOuP3-7" value="&lt;span style=&quot;text-align: start; font-size: 14px; font-family: 仿宋_GB2312;&quot;&gt;基于数据采样的分布式全链路数据构建方法&lt;/span&gt;&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="1590" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
