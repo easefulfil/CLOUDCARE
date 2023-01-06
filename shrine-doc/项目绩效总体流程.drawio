@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T07:28:47.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="T9jCpAeCE08OKEtkUQsW" version="20.8.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-01-06T07:43:42.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JmLeEVlnv9keSov3McT4" version="20.8.1" type="github" pages="11">
   <diagram id="qzNjBNDZh3tMxg9USTBX" name="Page-1">
     <mxGraphModel dx="1087" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1059,8 +1059,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hXBlI05z7sUf-_mrQWrp-20" value="修改采购预算记录&lt;br&gt;的实际金额" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="110" height="40" as="geometry" />
+        <mxCell id="hXBlI05z7sUf-_mrQWrp-20" value="修改采购预算记录的&lt;br&gt;实际金额，项目合同编号" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hXBlI05z7sUf-_mrQWrp-21" value="" style="line;strokeWidth=1;direction=south;html=1;dashed=1;dashPattern=20 20;" vertex="1" parent="1">
           <mxGeometry x="140" y="40" width="10" height="500" as="geometry" />
@@ -1091,8 +1091,8 @@
         <mxCell id="g4_1WQFJhFo4ona_hBDz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HFsS5-ES0IjB3xydPtLM-4" target="HFsS5-ES0IjB3xydPtLM-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HFsS5-ES0IjB3xydPtLM-4" value="同步支出合同金额" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="7.5" y="280" width="130" height="40" as="geometry" />
+        <mxCell id="HFsS5-ES0IjB3xydPtLM-4" value="同步支出合同金额、&lt;br&gt;项目合同编号" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="270" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLSFAIqqcj3A7Y8Q2NB8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HFsS5-ES0IjB3xydPtLM-5" target="hXBlI05z7sUf-_mrQWrp-20">
           <mxGeometry relative="1" as="geometry" />
@@ -1171,7 +1171,7 @@
         <mxCell id="oSFfI-GBgKvqwX_oGw-g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRz8S5MyyHjCcN3KiibV-17" target="wRz8S5MyyHjCcN3KiibV-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oSFfI-GBgKvqwX_oGw-g-2" value="根据付款编号，同步项目管理系统的项目编号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oSFfI-GBgKvqwX_oGw-g-1">
+        <mxCell id="oSFfI-GBgKvqwX_oGw-g-2" value="根据付款编号，同步&lt;span style=&quot;caret-color: rgb(23, 26, 29); color: rgb(23, 26, 29); font-family: -apple-system, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Roboto, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 11px; text-align: left; text-size-adjust: auto;&quot;&gt;付款流水号，金额信息到雪润&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="oSFfI-GBgKvqwX_oGw-g-1">
           <mxGeometry x="0.1355" y="-3" relative="1" as="geometry">
             <mxPoint x="207" y="73" as="offset" />
           </mxGeometry>
@@ -1212,13 +1212,13 @@
         <mxCell id="oSFfI-GBgKvqwX_oGw-g-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1eRIxXHKo5vdhg54g9N-4" target="wRz8S5MyyHjCcN3KiibV-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H1eRIxXHKo5vdhg54g9N-4" value="选择收入合同&lt;br&gt;录入付款编号" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+        <mxCell id="H1eRIxXHKo5vdhg54g9N-4" value="选择支出合同&lt;br&gt;录入付款编号" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oSFfI-GBgKvqwX_oGw-g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oSFfI-GBgKvqwX_oGw-g-5" target="oSFfI-GBgKvqwX_oGw-g-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oSFfI-GBgKvqwX_oGw-g-11" value="根据项目编号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oSFfI-GBgKvqwX_oGw-g-10">
+        <mxCell id="oSFfI-GBgKvqwX_oGw-g-11" value="根据项目合同编号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oSFfI-GBgKvqwX_oGw-g-10">
           <mxGeometry x="-0.3268" y="-1" relative="1" as="geometry">
             <mxPoint x="21" y="9" as="offset" />
           </mxGeometry>
