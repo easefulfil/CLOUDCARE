@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T06:59:33.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="wA-EglSIeX4hkIgasTsn" version="20.8.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-01-06T07:00:40.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_V5wpTy7QUFQXdVXi222" version="20.8.1" type="github" pages="10">
   <diagram id="qzNjBNDZh3tMxg9USTBX" name="Page-1">
     <mxGraphModel dx="1087" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1086,8 +1086,8 @@
         <mxCell id="g4_1WQFJhFo4ona_hBDz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HFsS5-ES0IjB3xydPtLM-4" target="HFsS5-ES0IjB3xydPtLM-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HFsS5-ES0IjB3xydPtLM-4" value="同步支出合同金额" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="17.5" y="270" width="110" height="40" as="geometry" />
+        <mxCell id="HFsS5-ES0IjB3xydPtLM-4" value="&lt;span style=&quot;&quot;&gt;根据供应商名称&lt;/span&gt;&lt;span style=&quot;&quot;&gt;/税率&lt;/span&gt;&lt;br&gt;同步支出合同金额" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rLSFAIqqcj3A7Y8Q2NB8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HFsS5-ES0IjB3xydPtLM-5" target="hXBlI05z7sUf-_mrQWrp-20">
           <mxGeometry relative="1" as="geometry" />
@@ -1099,7 +1099,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HFsS5-ES0IjB3xydPtLM-5" value="根据供应商名称&lt;br&gt;/税率查找是否有对应&lt;br&gt;的采购预算记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HFsS5-ES0IjB3xydPtLM-5" value="是否有对应&lt;br&gt;的采购预算记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="350" width="145" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rLSFAIqqcj3A7Y8Q2NB8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HFsS5-ES0IjB3xydPtLM-11" target="rLSFAIqqcj3A7Y8Q2NB8-16">
@@ -1199,14 +1199,11 @@
         <mxCell id="wRz8S5MyyHjCcN3KiibV-26" value="生成付款编号" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wRz8S5MyyHjCcN3KiibV-27" value="同步支持合同金额" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+        <mxCell id="wRz8S5MyyHjCcN3KiibV-27" value="同步支持合同收款" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="330" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wRz8S5MyyHjCcN3KiibV-28" value="是否有对应的&lt;br&gt;采购预算记录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="165" y="510" width="110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wRz8S5MyyHjCcN3KiibV-29" value="根据供应商名称/税率查找" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="480" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wRz8S5MyyHjCcN3KiibV-31" value="新建付款申请流程&lt;br&gt;（有合同）" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry y="680" width="110" height="40" as="geometry" />
