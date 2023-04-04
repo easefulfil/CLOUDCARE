@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T06:06:07.408Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="S7MaJxbyAuFeyBwCM44E" version="20.8.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-04T06:08:23.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hmOoTopBGfg_I70mc0kw" version="20.8.14" type="github" pages="4">
   <diagram id="xiB8PAyE3oWgh1poIhj1" name="系统关系图">
     <mxGraphModel dx="1194" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,7 +415,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfrltF1nbwiZupKbOsQj-79" value="项目收付款" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="gfrltF1nbwiZupKbOsQj-25" target="gfrltF1nbwiZupKbOsQj-12">
+        <mxCell id="gfrltF1nbwiZupKbOsQj-79" value="12、项目收付款" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="gfrltF1nbwiZupKbOsQj-25" target="gfrltF1nbwiZupKbOsQj-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="940" as="targetPoint" />
             <mxPoint as="offset" />
@@ -480,6 +480,180 @@
           <mxGeometry x="510" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfrltF1nbwiZupKbOsQj-39" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="gfrltF1nbwiZupKbOsQj-38">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RekLqDpdueaDYlFNKOkR" name="第 4 页">
+    <mxGraphModel dx="1017" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-1" value="1、合同，客户，&lt;br&gt;订单，付款数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-6" target="MaRUkpY6ufb2W53Hvzgl-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-6" target="MaRUkpY6ufb2W53Hvzgl-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-3" value="4、项目，&lt;br&gt;合同、费用报销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="MaRUkpY6ufb2W53Hvzgl-2">
+          <mxGeometry x="-0.3455" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-6" target="MaRUkpY6ufb2W53Hvzgl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-5" value="7、合同，客户，&lt;br&gt;订单，付款数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="MaRUkpY6ufb2W53Hvzgl-4">
+          <mxGeometry x="0.2154" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-6" value="泛微OA&lt;br&gt;系统" style="html=1;dropTarget=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="MaRUkpY6ufb2W53Hvzgl-6">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-12" target="MaRUkpY6ufb2W53Hvzgl-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="599" />
+              <mxPoint x="320" y="599" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-9" value="8、发票申请数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="MaRUkpY6ufb2W53Hvzgl-8">
+          <mxGeometry x="-0.4581" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.183;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-12" target="MaRUkpY6ufb2W53Hvzgl-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="42" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-11" value="10、费用、&lt;br&gt;账单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="MaRUkpY6ufb2W53Hvzgl-10">
+          <mxGeometry x="-0.008" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-12" value="观测云雪润" style="html=1;dropTarget=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-13" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="MaRUkpY6ufb2W53Hvzgl-12">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-14" value="项目绩效&lt;br&gt;管理系统" style="html=1;dropTarget=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="510" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-15" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="MaRUkpY6ufb2W53Hvzgl-14">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-18" target="MaRUkpY6ufb2W53Hvzgl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-17" value="11、充值，&lt;br&gt;客户，合同" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="MaRUkpY6ufb2W53Hvzgl-16">
+          <mxGeometry x="-0.2082" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-18" value="观测云&lt;br&gt;费用中心" style="html=1;dropTarget=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-19" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="MaRUkpY6ufb2W53Hvzgl-18">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-20" value="2、发票申请&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;凭证数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-22" target="MaRUkpY6ufb2W53Hvzgl-27">
+          <mxGeometry x="0.2541" relative="1" as="geometry">
+            <mxPoint x="700" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="1030" />
+              <mxPoint x="680" y="1030" />
+              <mxPoint x="680" y="635" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-21" value="12、项目收付款" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-22" target="MaRUkpY6ufb2W53Hvzgl-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="940" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-22" value="柝云雪润" style="html=1;dropTarget=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-23" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="MaRUkpY6ufb2W53Hvzgl-22">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-24" value="3、费用报销附件&lt;br&gt;开票数据&lt;br&gt;交易流水&lt;br&gt;收款" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-27" target="MaRUkpY6ufb2W53Hvzgl-22">
+          <mxGeometry x="-0.3443" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="610" />
+              <mxPoint x="750" y="1070" />
+              <mxPoint x="300" y="1070" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-27" target="MaRUkpY6ufb2W53Hvzgl-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="625" />
+              <mxPoint x="450" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-26" value="9、开票数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="MaRUkpY6ufb2W53Hvzgl-25">
+          <mxGeometry x="-0.4545" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-27" value="金碟云" style="html=1;dropTarget=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-28" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="MaRUkpY6ufb2W53Hvzgl-27">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-33" target="MaRUkpY6ufb2W53Hvzgl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-30" value="6、项目，&lt;br&gt;合同，费用报销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="MaRUkpY6ufb2W53Hvzgl-29">
+          <mxGeometry x="0.0125" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="MaRUkpY6ufb2W53Hvzgl-33" target="MaRUkpY6ufb2W53Hvzgl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-32" value="5、费用报销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="MaRUkpY6ufb2W53Hvzgl-31">
+          <mxGeometry x="0.0833" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-33" value="func" style="html=1;dropTarget=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="510" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MaRUkpY6ufb2W53Hvzgl-34" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="MaRUkpY6ufb2W53Hvzgl-33">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
