@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T02:23:24.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lVloJusBW6cZ5I4O3Siz" version="21.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-07T02:29:53.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HpJV7TCTnoPLn8IKTiEd" version="21.1.5" type="github" pages="3">
   <diagram id="Sbrhr5Nw-g5cpGmvwB3p" name="业务系统关系图">
     <mxGraphModel dx="1194" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -517,6 +517,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OfPlQTreFdCSa5hfuO4c-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;perimeterSpacing=1;strokeWidth=2;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="370" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="OfPlQTreFdCSa5hfuO4c-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="OfPlQTreFdCSa5hfuO4c-12" target="OfPlQTreFdCSa5hfuO4c-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -628,7 +631,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OfPlQTreFdCSa5hfuO4c-41" value="观测云&lt;br&gt;费用中心&lt;br&gt;（国内版）" style="html=1;dropTarget=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OfPlQTreFdCSa5hfuO4c-42" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="OfPlQTreFdCSa5hfuO4c-41">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -636,7 +639,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OfPlQTreFdCSa5hfuO4c-45" value="观测云&lt;br&gt;合作伙伴平台" style="html=1;dropTarget=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OfPlQTreFdCSa5hfuO4c-46" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontStyle=1" vertex="1" parent="OfPlQTreFdCSa5hfuO4c-45">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -669,10 +672,10 @@
         </mxCell>
         <mxCell id="OfPlQTreFdCSa5hfuO4c-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OfPlQTreFdCSa5hfuO4c-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="265" as="targetPoint" />
+            <mxPoint x="180" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="265" />
-              <mxPoint x="180" y="265" />
+              <mxPoint x="110" y="310" />
+              <mxPoint x="180" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -696,9 +699,6 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OfPlQTreFdCSa5hfuO4c-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;perimeterSpacing=1;strokeWidth=2;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="390" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
