@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T09:53:27.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X7VfQQ6z3XHt_Fs4K2RJ" version="22.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-12-05T09:57:34.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RjrjQs3k3o1EEYuaqycY" version="22.1.5" type="github" pages="11">
   <diagram id="5TTldtTPAiXJ0-v0XxrX" name="课题设计方案">
     <mxGraphModel dx="1119" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1137,60 +1137,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P-mNISy2Z1mPF85emekS" name="研究框架">
-    <mxGraphModel dx="1178" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="351" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wefcbPInnXnuukgeAsiz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="J5xfPkuzUT9cJfnxUiUe-29" target="J5xfPkuzUT9cJfnxUiUe-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5xfPkuzUT9cJfnxUiUe-29" value="&lt;a style=&quot;border-color: var(--border-color); font-size: medium; text-align: start;&quot; name=&quot;_Toc151924756&quot;&gt;云原生系统链路异常检测算法研究&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="wefcbPInnXnuukgeAsiz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="J5xfPkuzUT9cJfnxUiUe-30" target="X4ogZR32Tuu5L83FBf2G-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J5xfPkuzUT9cJfnxUiUe-30" value="云原生系统异常根因定位算法研究" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="280" y="360" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="wefcbPInnXnuukgeAsiz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.87;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="X4ogZR32Tuu5L83FBf2G-1" target="X4ogZR32Tuu5L83FBf2G-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X4ogZR32Tuu5L83FBf2G-1" value="基于TCN的时序数据预测模型研究&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="480" y="360" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="wefcbPInnXnuukgeAsiz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="X4ogZR32Tuu5L83FBf2G-2" target="wefcbPInnXnuukgeAsiz-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wefcbPInnXnuukgeAsiz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="X4ogZR32Tuu5L83FBf2G-2" target="wefcbPInnXnuukgeAsiz-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X4ogZR32Tuu5L83FBf2G-2" value="&lt;a style=&quot;font-size: medium; text-align: start;&quot; name=&quot;_Toc151924756&quot;&gt;云原生系统可观测性平台设计与实现&lt;br&gt;&lt;/a&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="80" y="250" width="540" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wefcbPInnXnuukgeAsiz-5" value="根因定位&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="140" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wefcbPInnXnuukgeAsiz-6" value="异常检测&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="140" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wefcbPInnXnuukgeAsiz-7" value="故障预测&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="140" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wefcbPInnXnuukgeAsiz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=1.083;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="J5xfPkuzUT9cJfnxUiUe-29" target="X4ogZR32Tuu5L83FBf2G-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wefcbPInnXnuukgeAsiz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="X4ogZR32Tuu5L83FBf2G-2" target="wefcbPInnXnuukgeAsiz-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jlHcUqzvaSSmvUr97j6w-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="jlHcUqzvaSSmvUr97j6w-1" target="jlHcUqzvaSSmvUr97j6w-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jlHcUqzvaSSmvUr97j6w-1" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;研究目标&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="967.5" y="70" width="100" height="420" as="geometry" />
+          <mxGeometry x="950" y="70" width="117.5" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="jlHcUqzvaSSmvUr97j6w-3" value="&lt;span style=&quot;text-align: start; font-size: 12pt; font-family: 仿宋_GB2312;&quot;&gt;实现云原生系统&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 12pt; font-family: 仿宋_GB2312;&quot;&gt;链路追踪、异常检查、根因定位及故障预测等&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 12pt; font-family: 仿宋_GB2312;&quot; lang=&quot;ZH&quot;&gt;关键技术展开研究，&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="140" width="65" height="330" as="geometry" />
+        <mxCell id="jlHcUqzvaSSmvUr97j6w-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;text-align: start; font-family: 仿宋_GB2312;&quot;&gt;实现云原生系统的&lt;/span&gt;&lt;span style=&quot;text-align: start; font-family: 仿宋_GB2312;&quot;&gt;链路追踪、异常检查、根因定位及故障预测等，帮助&lt;/span&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;/span&gt;企业更好地理解系统运行企业更好地理解系统运行性能状态&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="140" width="85" height="330" as="geometry" />
         </mxCell>
         <mxCell id="jlHcUqzvaSSmvUr97j6w-4" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;拟解决问题&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=14;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1110" y="70" width="260" height="420" as="geometry" />
